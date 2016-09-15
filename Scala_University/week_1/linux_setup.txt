@@ -1,0 +1,11 @@
+Install Java
+sudo apt-get install open-jdk-8-jdk
+Then check the version
+java -version
+
+Install sbt from scala-sbt.org
+Check the version
+sbt about
+
+-- Download IntelliJ for Linu, version Community Edition
+-- Install the plugins: sbt & Scala
