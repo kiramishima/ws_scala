@@ -28,10 +28,10 @@ class Party extends  Event {
 
 object Main extends App {
     val party1 = new Party
-    party1.register(5)
+    party1.register(15)
     println(party1.cost)
 
     
-    party1.register(10)
+    party1.register(11)
     println(party1.cost)
 }
