@@ -99,3 +99,5 @@ hs_err_pid*
 .idea
 
 # End of https://www.toptal.com/developers/gitignore/api/sbt,scala
+
+movies_metadata.csv
